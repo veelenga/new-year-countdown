@@ -1,0 +1,14 @@
+html {
+  background: url(../assets/images/bg.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.new-year-clock {
+  top: 20px;
+  width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+}
