@@ -1,1 +1,1 @@
-Just another New Year Countdown.
+Yet another [New Year Countdown](http://veelenga.github.io/new-year-countdown).
